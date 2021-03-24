@@ -2,13 +2,28 @@
 
 This is my first react project from [React Crach Course 2021](https://youtu.be/w7ejDZ8SWv8).
 
-## How to run
+## Usage
 
-- Install dependencies  
-  `npm install`
-- Dev server  
-  `npm start`
-- JSON server  
-  `npm run server`
-- Build for production  
-  `npm run build`
+### Install dependencies
+
+```
+npm install
+```
+
+### Run React dev server
+
+```
+npm start
+```
+
+### Run the JSON server
+
+```
+npm run server
+```
+
+### To build for production
+
+```
+npm run build
+```
